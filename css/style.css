@@ -862,6 +862,8 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 
 .services-content {
     text-align:justify;
+	text-indent: 40px;
+	padding: 20px;
 }
 
 .scale-icons {
