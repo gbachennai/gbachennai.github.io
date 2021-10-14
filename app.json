@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "2MCCTV Enforcer",
+    "slug": "2mcctv-enforcer",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "2MCCTV Enforcer App",
+    "android": {
+      "package": "com.twomcctv.enforcer"
+    }
+  }
+}
